@@ -1,10 +1,10 @@
 # Generated Java/Gradle output
-backend/.gradle/
-backend/build/
+EXP 5/backend/.gradle/
+EXP 5/backend/build/
 
 # Generated frontend dependencies and builds
-frontend/node_modules/
-frontend/dist/
+EXP 5/frontend/node_modules/
+EXP 5/frontend/dist/
 
 # Local environment and editor files
 .env
@@ -19,3 +19,7 @@ node_modules/
 dist/
 .env.local
 .env.*.local
+
+# Old local paths left by the reorganization
+backend/
+frontend/
