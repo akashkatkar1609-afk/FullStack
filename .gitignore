@@ -1,0 +1,15 @@
+# Generated Java/Gradle output
+backend/.gradle/
+backend/build/
+
+# Generated frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
