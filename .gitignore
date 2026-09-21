@@ -13,3 +13,9 @@ frontend/dist/
 .vscode/
 .idea/
 *.log
+
+# Repository-wide dependency and environment files
+node_modules/
+dist/
+.env.local
+.env.*.local
